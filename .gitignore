@@ -1,0 +1,7 @@
+# Node / Python / general 
+node_modules/ 
+.env 
+__pycache__/ 
+*.pyc 
+.vscode/ 
+.vscode/ 
